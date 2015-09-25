@@ -1,0 +1,11 @@
+{
+  "name": "Seismograph",
+  "description": "",
+  "version": "0.0.2",
+  "main": "main.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+  }
+}
